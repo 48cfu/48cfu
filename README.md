@@ -4,9 +4,9 @@ I'm most comfortable in that weird, funky world between design and developmentâ€
 
 <!-- <a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a> -->
 
-| Now Playing                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------ |
-| <a href="https://48cfu.vercel.app/now-playing?open"><img src="https://48cfu.vercel.app/now-playing" width="540" height="64"></a> |
+| Now Playing on                                 <br/><img src="https://github.com/48cfu/48cfu/raw/master/assets/Spotify_Logo_CMYK_Black.png" width="80" >                                                                                        |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <a href="https://48cfu.vercel.app/now-playing?open">  <img src="https://48cfu.vercel.app/now-playing" width="540" height="64"></a> |
 
 <!--
 <table>
