@@ -1,6 +1,11 @@
-# Hey there!
+#  Hey there, I'm Precious 👋
 
-I'm most comfortable in that weird, funky world between design and development—that's where the most fun, creative, boundary-breaking work happens. If you're interested in the work I do, please consider supporting me on GitHub!
+📌 _Here are a few things that describe me:_
+
+- 💼 &nbsp;I'm currently working full-time at the [Technical University of Munich](https://www.tum.de/) as a Research Associate in Control Engineering
+- 💻 &nbsp;I love learning, coding, and contributing to opensource projects.
+- 💬 &nbsp;Ask me about anything, I'll be happy to help
+- 📫 &nbsp;_How to reach me:_ [Linkedin](https://www.linkedin.com/in/ugoabara/) |  [Projects Portfolio](https://48cfu.github.io/) | 
 
 <!-- <a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a> -->
 
