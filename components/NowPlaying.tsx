@@ -139,7 +139,7 @@ export const Player: React.FC<Props> = ({
         }}
       >
         <Text style={{ width: '16px', marginRight: '16px' }} size="large" weight="bold">{ isPlaying ? '▶' : '' }</Text>
-        <img id="cover" src={cover ?? null} width="48" height="48" />
+        <img id="cover" src={cover ?? null} width="64" height="64" />
         <div
           style={{
             display: "flex",
