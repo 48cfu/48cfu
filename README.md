@@ -11,7 +11,7 @@
 
 | Now Playing on                                 <br/><img src="https://github.com/48cfu/48cfu/raw/master/assets/Spotify_Logo_CMYK_Black.png" width="80" >                                                                                        |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href="https://48cfu.vercel.app/now-playing?open">  <img src="https://48cfu.vercel.app/now-playing" width="540" height="80"></a> |
+| <a href="https://48cfu.vercel.app/now-playing?open">  <img src="https://48cfu.vercel.app/now-playing" width="540" height="136"></a> |
 
 <!--
 <table>
