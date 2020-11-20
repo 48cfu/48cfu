@@ -5,7 +5,7 @@
 - 💼 &nbsp;I'm currently working full-time at the [Technical University of Munich](https://www.tum.de/) as a Research Associate in Control Engineering
 - 💻 &nbsp;I love learning, coding, and contributing to opensource projects
 - 💬 &nbsp;Ask me about anything, I'll be happy to help
-- 📫 &nbsp;_How to reach me:_ [Linkedin](https://www.linkedin.com/in/ugoabara/) |  [Projects Portfolio](https://48cfu.github.io/) | 
+- 📫 &nbsp;_How to reach me:_ [Linkedin](https://www.linkedin.com/in/ugoabara/) |  [Projects Portfolio](https://48cfu.github.io/) 
 
 <!-- <a href="https://github.com/sponsors/natemoo-re" title="Sponsor Nate Moore"><img src="/assets/sponsor.svg?sanitize=true" width="94" height="28" aria-hidden="true"></a> -->
 
